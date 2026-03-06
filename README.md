@@ -26,4 +26,4 @@ Laravel Tutorial – 2100
 ## Installation
 
 1. Download the plugin or clone this repository.
-2. Upload the plugin folder to:
+2. Upload the plugin folder to plugins folder in your server
